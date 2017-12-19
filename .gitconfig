@@ -1,0 +1,14 @@
+[user]
+	  name = sfukai30
+    email = sfukai1218@gmail.com
+[color]
+    ui = auto
+[alias]
+    a    = add
+    b    = branch
+    d    = diff
+    r    = rebase
+    s    = stash
+    cout = checkout
+    ci   = commit
+    st   = status

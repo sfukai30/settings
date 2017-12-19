@@ -1,0 +1,32 @@
+{
+    "auto_indent": true,
+    "color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
+    "default_encoding": "UTF-8",
+    "draw_white_space": "all",
+    "font_face": "Ricty",
+    "fallback_encoding": "UTF-8",
+    "font_options":
+    [
+    ],
+    "font_size": 16.0,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Color Scheme - Nice Blue Soda"
+    ],
+    "indent_guide_options":
+    [
+        "draw_active",
+        "draw_normal"
+    ],
+    "line_padding_top": 1.5,
+    "match_brackets_braces": true,
+    "match_brackets_content": true,
+    "match_brackets_square": true,
+    "open_files_in_new_window": false,
+    "tab_size": 2,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "vintage_start_in_command_mode": true,
+    "word_wrap": true
+}
